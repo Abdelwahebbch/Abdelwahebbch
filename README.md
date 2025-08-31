@@ -22,14 +22,14 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelwahebbch&show_icons=true&theme=radical)  
 
 🔥 **Streak Stats**  
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUserName&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Abdelwahebbch&theme=radical)  
 
 ---
 
 📫 **Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelwaheb-bouchahwa-8449a5224)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelwaheb.vercel.app)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouchahwaabdelwaheb@ieee.org)  
 
 ---
-⭐️ From [YourUserName](https://github.com/YourUserName)
+⭐️ From [Abdelwahebbch](https://github.com/Abdelwahebbch)
