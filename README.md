@@ -24,7 +24,7 @@
 🔥 **Streak Stats**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdelwahebbch&theme=radical)  
 
-🔥Top Languages
+🔥 **Top Languages**
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahebbch&layout=compact&theme=radical)
 
 ---
