@@ -19,7 +19,7 @@
 ---
 
 📊 **GitHub Stats**  
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelwahebbch&show_icons=true&theme=radical)  
+![Abdelwaheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelwahebbch&show_icons=true&theme=radical)  
 
 🔥 **Streak Stats**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdelwahebbch&theme=radical)  
