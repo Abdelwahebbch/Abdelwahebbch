@@ -17,7 +17,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=postgresql)  
 
 ---
-
+<div align="center">
 📊 **GitHub Stats**  
 ![Abdelwaheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelwahebbch&show_icons=true&theme=radical)  
 
@@ -25,7 +25,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdelwahebbch&theme=radical)  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahebbch&layout=compact&theme=radical)
-
+</div>
 ---
 
 📫 **Connect with me**  
