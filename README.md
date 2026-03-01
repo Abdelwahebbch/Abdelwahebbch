@@ -13,15 +13,15 @@
   <br>
   <p align="center">
    
-    <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/"><img src="https://img.shields.io/badge/-[Your%20Name]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/[YOUR_GITHUB_USERNAME]"><img src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?label=Follow&style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/abdelwaheb/"><img src="https://img.shields.io/badge/-[Your%20Name]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelwaheb/" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/abdelwahebbch"><img src="https://img.shields.io/github/followers/abdelwahebbch?label=Follow&style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
   <br>
 
 <p align="center">
    <i>Take a look at my repositories and let's get in touch!</i>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=[YOUR_GITHUB_USERNAME]"/>       
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdelwahebbch"/>       
 </p>
 
 </p>
