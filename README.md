@@ -7,9 +7,9 @@
   <br><br>
     · <a href="https://abdelwaheb.dev">Portfolio</a>
    · 
-  <br>
+  <!-- <br>
   | <a href="https://github.com/Abdelwahebbch">Software Engineering Student</a>
-  <br>
+  <br> -->
   <p align="center">
    
     <a href="https://www.linkedin.com/in/abdelwaheb/"><img src="https://img.shields.io/badge/-Abdelwaheb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelwaheb/" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
