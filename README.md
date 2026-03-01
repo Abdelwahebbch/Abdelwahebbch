@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Software Developer specializing in mobile engineering, backend architecture, and AI integration. Currently building a gamified AI tutor application. Dedicated to writing clean code, improving user experiences, and exploring innovative solutions in EdTech.
+ Computer Science undergraduate with a passion for mobile development. I specialize in building cross-platform applications using Flutter, backed by a versatile technical stack including Java, C#, and Python
   <br><br>
     · <a href="https://abdelwaheb.dev">Portfolio</a>
    · 
