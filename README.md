@@ -8,7 +8,7 @@
     · <a href="abdelwaheb.dev">Portfolio</a>
    · 
   <br>
-  <a href="abdelwaheb.dev">Mobile & AI Developer</a>
+  <a href="https://abdelwaheb.dev">Mobile & AI Developer</a>
   | <a href="https://github.com/Abdelwahebbch">Software Engineering Student</a>
   <br>
   <p align="center">
