@@ -1,39 +1,27 @@
-# Hi there 👋, I'm Abdelwaheb
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20[Your%20Name]!&fontSize=50" alt="Header Image" />
+</p>
 
-💻 **About Me**
-- 🔭 I’m currently working on:  university_restaurant_app/university_restaurant_administration_app  
-<!--- 🌱 I’m learning: Flutter.  
-- 👯 I’m looking to collaborate on: [topics you like]  
-- 💬 Ask me about: [your strong skills/tech stack]  
-- ⚡ Fun fact: [something fun about you]  -->
+<p align="center">
+  Software Developer specializing in mobile engineering, backend architecture, and AI integration. Currently building a gamified AI tutor application. Dedicated to writing clean code, improving user experiences, and exploring innovative solutions in EdTech.
+  <br><br>
+    · <a href="[LINK_TO_YOUR_RESUME_PDF]">Resume</a>
+   · 
+  <br>
+  <a href="[LINK_TO_YOUR_PORTFOLIO_OR_PROJECT]">Mobile & AI Developer</a>
+  | <a href="https://github.com/[YOUR_GITHUB_USERNAME]">Software Engineering Student</a>
+  <br>
+  <p align="center">
+    <a href="https://twitter.com/[YOUR_TWITTER_USERNAME]"><img src="https://img.shields.io/twitter/follow/[YOUR_TWITTER_USERNAME]?style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/"><img src="https://img.shields.io/badge/-[Your%20Name]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME]/" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/[YOUR_GITHUB_USERNAME]"><img src="https://img.shields.io/github/followers/[YOUR_GITHUB_USERNAME]?label=Follow&style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
+  <br>
 
----
+<p align="center">
+   <i>Take a look at my repositories and let's get in touch!</i>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=[YOUR_GITHUB_USERNAME]"/>       
+</p>
 
-🛠 **Languages & Tools**  
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python) 
-![Flutter](https://img.shields.io/badge/-Flutter-333?style=for-the-badge&logo=flutter) 
-![Dart](https://img.shields.io/badge/-Dart-333?style=for-the-badge&logo=dart) 
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java) 
-![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=postgresql)  
-
----
-<div align="center">
-📊 **GitHub Stats**  
-![Abdelwaheb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdelwahebbch&show_icons=true&theme=radical)  
-
-🔥 **Streak Stats**  
-![GitHub Streak](https://streak-stats.demolab.com?user=Abdelwahebbch&theme=radical)  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahebbch&layout=compact&theme=transparent)
-</div>
----
-
-📫 **Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelwaheb-bouchahwa-8449a5224)  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdelwaheb.dev)  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouchahwaabdelwaheb@ieee.org)  
-
----
-⭐️ From [Abdelwahebbch](https://github.com/Abdelwahebbch)
+</p>
