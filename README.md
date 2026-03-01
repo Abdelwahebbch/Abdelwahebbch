@@ -12,7 +12,7 @@
   <br>
   <p align="center">
    
-    <a href="https://www.linkedin.com/in/abdelwaheb/"><img src="https://img.shields.io/badge/-[Abdelwaheb]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelwaheb/" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/abdelwaheb/"><img src="https://img.shields.io/badge/-Abdelwaheb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdelwaheb/" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/abdelwahebbch"><img src="https://img.shields.io/github/followers/abdelwahebbch?label=Follow&style=social" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
   <br>
