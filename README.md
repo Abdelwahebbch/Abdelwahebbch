@@ -5,10 +5,9 @@
 <p align="center">
   Software Developer specializing in mobile engineering, backend architecture, and AI integration. Currently building a gamified AI tutor application. Dedicated to writing clean code, improving user experiences, and exploring innovative solutions in EdTech.
   <br><br>
-    · <a href="abdelwaheb.dev">Portfolio</a>
+    · <a href="https://abdelwaheb.dev"></a>
    · 
   <br>
-  <a href="https://abdelwaheb.dev">Mobile & AI Developer</a>
   | <a href="https://github.com/Abdelwahebbch">Software Engineering Student</a>
   <br>
   <p align="center">
