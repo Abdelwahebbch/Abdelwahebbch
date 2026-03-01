@@ -24,7 +24,7 @@
 🔥 **Streak Stats**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Abdelwahebbch&theme=radical)  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahebbch&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahebbch&layout=compact&theme=transparent)
 </div>
 ---
 
