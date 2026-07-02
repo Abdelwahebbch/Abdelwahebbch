@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
- Computer Science undergraduate with a passion for mobile development. I specialize in building cross-platform applications using Flutter, backed by a versatile technical stack including Java, C#, and Python
+ Computer Science Graduated with a passion for mobile development. I specialize in building cross-platform applications using Flutter, backed by a versatile technical stack including Java, C#, and Python
   <br><br>
     · <a href="https://abdelwaheb.dev">Portfolio</a>
    · 
